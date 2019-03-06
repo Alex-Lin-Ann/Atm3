@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760763751138",
+    "firebase_url": "https://atm18-13f1c.firebaseio.com",
+    "project_id": "atm18-13f1c",
+    "storage_bucket": "atm18-13f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760763751138:android:ccfcdc8ac42f7e91",
+        "android_client_info": {
+          "package_name": "com.learning.anan.atm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760763751138-c9hju37hsnjrdaoq2bvssnv4thbpvguu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.anan.atm3",
+            "certificate_hash": "a6ccf1ea1986661330c4a179dda383a9b567235c"
+          }
+        },
+        {
+          "client_id": "760763751138-a7n9c9i3esc9bv2s7r6204smujg30m3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqHt9-HsCpnzP7BCffGPZ9zhKKb60yzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760763751138-a7n9c9i3esc9bv2s7r6204smujg30m3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
